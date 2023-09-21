@@ -1,1 +1,0 @@
-Simple large transfer from web url to s3 bucket
