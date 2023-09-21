@@ -1,0 +1,13 @@
+{
+  "name": "file-transfer-s3",
+  "version": "1.0.0",
+  "description": "A script to download a file from a URL and upload it to an AWS S3 bucket",
+  "main": "fileTransfer.js",
+  "scripts": {
+    "start": "node fileTransfer.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.883.0",
+    "axios": "^0.21.1"
+  }
+}
